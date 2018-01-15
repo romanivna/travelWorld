@@ -1,0 +1,284 @@
+@media screen and (min-width:768px) {
+				/*всеми страницами для ширины экрана от 768px*/
+	html{
+	padding: 20px 200px;
+	}
+	
+	#all {
+	position:fixed;
+	z-index:-999;
+	background: url('../img/bird.png') left top no-repeat,
+				url('../img/bird2.png') right bottom no-repeat;
+	background-size: 400px auto,
+					 200px auto;
+	background-attachment: fixed;
+	margin:-20px -200px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:180px;
+	padding-right:180px;
+	width:100%;
+	height:100%;
+}
+
+	#header {
+	position:static;
+	height:100px;}
+	
+	#logo{
+	display:none;
+	}
+	
+	
+	#breadcrumps {
+	top:50px;}
+	
+	#between {
+	display:block;
+	width:100%;
+	height:30%;
+	background: url('../img/flower2.png');
+	background-size:contain;
+	margin: 20px 0;
+}
+	
+	#form h1{
+	font-size: 25px;
+	}
+	
+	.form{
+	left:30%;
+	width:40%;
+}
+
+	#content{
+		width:100%;
+	}
+	
+#footer {
+display:flex;
+justify-content: space-around;
+align-items: center;
+}	
+
+#footer .copy{
+	flex-grow: 1;
+}
+
+#footer .form_back {
+	flex-grow: 3;
+}
+	
+#share_desk {
+	display:inline-block;
+	margin:auto;
+	flex-grow:2;
+}
+
+#share_desk a{
+	display:inline-block;
+	cursor:pointer;
+	width:31px;
+	margin: 0;
+}
+
+#share_desk .icons{
+	display:inline;
+	width:30px;
+}
+
+
+
+								/*категории*/
+#content_categories {
+	display:flex;
+	width:100%;
+}
+
+#left_content {
+	order:1;
+	margin-left:20px;
+	width:65%;
+	color:red;
+}
+
+							/*Блог*/
+article {
+	height:380px;
+}							
+
+article, .traveling {
+	width:44%; 
+	margin:30px 10px;
+	float:left;
+}
+.right_wrap {
+	right:100px;
+}
+
+
+
+
+article img, .traveling img, .traveling iframe {
+	width:100%;
+	height:40%;
+	background-size:auto 100%;
+	margin-bottom:-50px;
+	margin-left:0;
+}
+
+
+article .country, .traveling .country {
+	display:inline-block;
+	font-size:18px;
+}
+.traveling .country {
+	left:10px;
+	top:-10px;
+	}
+article .title {
+	display: inline-block;
+	width:40%;
+}
+
+
+/*Музыка и Книги*/
+
+.download {
+	float:left;
+	width:40%;
+}							
+			
+							
+.download img{
+	width:80%;
+}		
+
+			
+
+
+}
+			/*все страницы*/
+@media screen and (max-width:1100px){
+	#menu{
+	width:70%;
+	}
+	
+	.menu_it {
+	flex-wrap:wrap;
+	}
+	
+	
+}
+
+@media screen and (min-width:1026px){
+
+	#menu_button {
+	display:none;
+	}
+	
+	#search{
+		height:40px;
+	}
+	
+	#header {
+		height:70px;
+	}
+	
+	#menu .line {
+	display:inline;
+	font-size:25px;
+	width:5px;
+	}
+	
+	#menu {
+	width:75%;
+	left:15%;
+	top:-80px;
+	padding:0;
+	}
+	
+	#menu a{
+	padding:0;
+	color:#072a16;
+	}
+	
+	.menu_it{
+	position: absolute;
+	display:flex;
+	justify-content:space-between;
+	width:80%;
+	top:100px;
+	left:30px;
+	}
+	
+	
+	.menu_it li{
+	width:20%;
+	text-align:center;
+	font-size:0.75em;
+//	border-right: 3px solid white;
+	}
+	
+	.menu_it li a{
+	}
+#sign_menu{
+	border:none;
+}
+	
+	#travel_items, #blog_items, #sign_items, #health_items {
+	display:none;
+	top:0px;
+	width:100%;
+	padding:0;
+	}
+	
+	#travel_items li, #blog_items li, #sign_items li, #health_items li{
+	width:100%;
+	margin-bottom:3px;
+	background:  #d3e29d ;
+	border: 1px dashed #072a16;
+	//border-right:1px dashed #072a16;
+	}
+	
+	#travel_items a, #blog_items a, #sign_items a, #health_items a{
+		display:inline-block;
+		width:100%;
+	color: #2d6b22
+	}
+	
+	#travel_menu:hover #travel_items,
+	#blog_menu:hover #blog_items,
+	#sign_menu:hover #sign_items,
+	#health_menu:hover #health_items{
+	display:block;}
+	
+	#blog_items a:hover, 
+	#sign_items a:hover, 
+	#health_items a:hover,
+	#travel_items a:hover{
+	background-color:white;}
+	
+	
+	
+							/*блог*/
+	article {
+	height:400px;
+}							
+
+article, .traveling {
+	width:44%; 
+	margin:30px 18px;
+	float:left;
+}
+
+
+
+article img, .traveling img, .traveling iframe {
+	width:100%;
+	height:50%;
+	background-size:auto 100%;
+	margin-bottom:-50px;
+	margin-left:0;
+}
+}

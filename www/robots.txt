@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /sign
+Disallow: /registration
+Disallow: /healthy
+Disallow: /travel
+Host: mysite.local
+Sitemap: http://mysite.local//sitemap.xml

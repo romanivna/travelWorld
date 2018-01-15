@@ -1,0 +1,666 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCKwEAAO0vwjQ7qI15WoDhZiN_nyxckdwa0mMIlaYcFK802sJx_SQahSAALpyC2kP_bcjORe0RNBPWEa870VYWraJRW6KjPTdYNC5ptNwD09li5advzhMOiE9pToPswuLQVAYYvjoNZSv4HIh4-znoNoFGEb5s6Gf6iGsGL5TMyHO37rcxcfTMgaBFJ07ceqaididnAsbFUp8Tg7VJXzKurJY6CMbPuxC_D5NuCpUreR5SoyySN8Vt73B1oio62f0aQkPn0eleG8Qii-pRMR0kspv0AG8xreccHEnzBM-taKCST0tlPD_i24NmP_1SMprkNzonV3hDtdRmL4j7OtJrlbbmCQi1ekwRCgx_VCmDmsig3YJCTalRa3aYdRtsLW4KDagN2zwNJ3S3YoWRsqtxX-vsewISEJ23SYFUocKqlonMrPvQbSMaFJETDjepwN8WnKbnpCdXS2IVeZOh",
+   "results" : [
+      {
+         "formatted_address" : "ул. Крещатик, 19а, Киев, Kyiv city, Украина, 01001",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.44716409999999,
+               "lng" : 30.52333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4485130802915,
+                  "lng" : 30.52467898029149
+               },
+               "southwest" : {
+                  "lat" : 50.4458151197085,
+                  "lng" : 30.5219810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "30a431da1c8442f88c5cc5d091b404a9ad2cccb0",
+         "name" : "Турагентство Coral Travel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2357,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110462087797248131940/photos\"\u003eТурагентство Coral Travel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAD1W1NqCP2XlTtOx4IXmCKY3kbDpAWR_pkbidWUGMyVDkV6ZcrdVvXodkxCo33G3PFv_rwpTdT8YRHkQ-gSoifdhahxi1Qjs0--2kbWvcErDcl2tvSMwU_2fmNQ597I08EhCiK4PHfY_Zhsbb_HY2Io_qGhQCQfzozcHlCBszw7HmG_oh3NKqqQ",
+               "width" : 3074
+            }
+         ],
+         "place_id" : "ChIJM1JbsFbO1EARp565hB6ZlYM",
+         "reference" : "CmRSAAAA9XHzEwkqJgpi_XdQpvuhwdDWap3sVRkBUH41Zm_2NFJobb-IP3ph5wlePfzIfR2smJJ8Dpz5ZflyquEDfdU6TryQfmoI_FXwGdKxAKj5Z0JMSsUbpzqfGzd3rjiT_apGEhBlv4nkT5u-SdlygAdjsFPhGhRufGVpYolv5WubYev1mCp_eSOZYg",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "01001, вулиця Михайлівська, 22Б, Київ, Украина",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.45444790000001,
+               "lng" : 30.5222812
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4556420802915,
+                  "lng" : 30.5231061302915
+               },
+               "southwest" : {
+                  "lat" : 50.4529441197085,
+                  "lng" : 30.5204081697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e9f08543fb5fdca417951a2bdca6d9fb1e81205",
+         "name" : "Турагентство «Поехали с нами»",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110918026820583556683/photos\"\u003eТурагентство «Поехали с нами»\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVBd2CN4trKW5ZMA89vGd3Ocywl2Mzrly602fP5p2Z7P-9axCkCe8ZqZx40D_nj4iqXYc475ekXXm2raXmnWzgIMc5qA622_L0aXkZJl2B3hs--chNlMdiyYXE8-ekMAeEhC6u3wjAWeqhEtZoiTnwBwpGhSpQMgK5UaNXUrNTRis1VA2LMqqMA",
+               "width" : 448
+            }
+         ],
+         "place_id" : "ChIJ_XhZ-0TO1EARTPF9QYyoVBM",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA_kzcP1BvYg_hIYdIZnGz6ijqHgtZ8R2Ptw88eO0ICzf_PEIaPUjNf5G2uScOAfwKZNhjAJfbxl67idQnyVFu24ClUl6q89bQaSsYlgwKhXYbCs--NcI1FwH_Fze0KGY0EhDyL4qbJMTLRp8hg2zMpIY7GhTjA8-CP77hqcxdCMLVSsK91WfZdA",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вул. М.Малиновського,12 А, УТЦ \"Метрополіс\",2 этаж, Київ, Kyiv city, Украина, 04212",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.447515,
+               "lng" : 30.51939119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.44886398029149,
+                  "lng" : 30.52074018029149
+               },
+               "southwest" : {
+                  "lat" : 50.44616601970849,
+                  "lng" : 30.51804221970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fabe3e3aaf5eb3ca7c74aea9d275322b17f2659d",
+         "name" : "Tours & Tickets",
+         "place_id" : "ChIJswAMYf7O1EARZfXxbdhl93I",
+         "reference" : "CmRRAAAAQZuO9-wFIp2zx-WZfkFcdCPaCTF1gCXSqIypVgG_x6_gyW7fhZZRnMENyfZpeplLUZEVUNiAzYn-RxHiuoUE-2hi3GbIl0ykLJQcc7yBY2-F_0G9VVykpaJSnPPmAmEiEhB1ngctB9qYHOPzB1806xQLGhTU_GEE4GQuwgDh7m8ach-bmfFgEw",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Заньковецкой, 10, Київ, Київська обл., Украина",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4470643,
+               "lng" : 30.5256546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4484132802915,
+                  "lng" : 30.5270035802915
+               },
+               "southwest" : {
+                  "lat" : 50.4457153197085,
+                  "lng" : 30.5243056197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "af7e32b0f9501aabf73c78b6d0afbd6c766c19be",
+         "name" : "Турагентство Некс-Тур",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 671,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109351457550280314453/photos\"\u003eТурагентство НЭкс-Тур Киев\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm77rW-AQ0obzl4TP-dOmoYn2hgy3RZvWZ5rAFCV7x-tpWiXmB--rvWP1k-X3upCUOScKNH25D3mIVvd2FfOzViQcxsR6oGexPXf_1pfAgu1ju6wz6nBAXbvG2UU4jBgIEhD3UMWjY6tpW2KppgA3-OAlGhS4L3wfZrBJIqoOf9Do-QNuLRJfQA",
+               "width" : 672
+            }
+         ],
+         "place_id" : "ChIJP7QJGFTO1EARn82GoiBJjYI",
+         "rating" : 5,
+         "reference" : "CmRSAAAAxDYlQkx92kL9o0Q5dKOfNuzurxeLzPY1DPGwH9-1MVteTfzU9jPZdO9-JNai-B7EC-PaEfn0r6SHfWducHKKgUkVYT7EvFtvBwNeTA7778zR0Z_T3rnt9CjS9xz9ECHfEhDo8ikOPvLPb3WleDr3lT6KGhSmV5X1r4LoqkoHNTJkO8QWWbjTBQ",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Хрещатик, 46 А, Київ, Украина, 01001",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.443685,
+               "lng" : 30.519284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4449405302915,
+                  "lng" : 30.5213702
+               },
+               "southwest" : {
+                  "lat" : 50.4422425697085,
+                  "lng" : 30.5185886
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d3f5aaa4d46a4c4a804698943c90d46b0e6a6bda",
+         "name" : "TOP TRAVEL",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117899340357709168693/photos\"\u003eГорящие туры в Турцию, Египет из Киева — турагентство &quot;TOP TRAVEL&quot;\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_gmeaTV_e1by3u-_8ayBEZuvAhLyMgaWwmbr5PqR4_tBsvzPjASsCK_pxZOx6UTSlGoQb6MaX3LlIhu-qBzPZc8UCJySsKo2rhESQjZvR_LQLyA8FXDttwmexCERrDJcEhBB3K5IZqHCh_Qe0b14QFFLGhSgBqaAjfAXV1ZHOZp-rc5QxAQJyQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJA-ysq4fO1EARFQSRLbeOMCQ",
+         "reference" : "CmRRAAAAZ3xRsV1Ey0PFRHhiccn6xSOzfkCZk4yJRYZJjdUJPHP6jRSclnXUnsABVsY5eATp1rz3BGggSOp5WmrGyPdmG3IL79gLNylQcTYHRrxQglP97TTc0dcSXCG2L4wsAxNaEhAXgKcv6QIH4LYvfoT0R9bGGhTF2re0KQghmio2M1wcjsDL9ID7uw",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Пушкінська, 21, 14, Київ, Украина, 01004",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.443824,
+               "lng" : 30.5179661
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4452022302915,
+                  "lng" : 30.5191308302915
+               },
+               "southwest" : {
+                  "lat" : 50.4425042697085,
+                  "lng" : 30.5164328697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "afe7a791953ec94843088f122d4b7a3bf4ccfbc2",
+         "name" : "Tours & Tickets",
+         "place_id" : "ChIJPRUEIVbO1EARts43BaqrhHs",
+         "reference" : "CmRRAAAAb9dDZGtdRfecdAg0BXFgWiYGYZGuDuPVU1F6UOMay3bd6Y5pIUHkTMZ1Xbp5d03vIBFn1Eiq3pdFuDigCx34YwhccmZrmsvaoPJoallM4rUuz5gBaey5Pzft6sBk5b-pEhCUBC3ezXgM_hxvv4XgxTi_GhRie0XsuqlnbcdfrGpHsWOvn_fLBQ",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Бульварно-Кудрявська, 5, Київ, Украина, 02000",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4538047,
+               "lng" : 30.5049319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4552166302915,
+                  "lng" : 30.5062151302915
+               },
+               "southwest" : {
+                  "lat" : 50.4525186697085,
+                  "lng" : 30.5035171697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ba8b7645117ddb7710ce0ef0e4bbf5e3f267dbcd",
+         "name" : "TUI-турагентство",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNwQ9oFDO1EARHiZq9alTEeA",
+         "rating" : 4,
+         "reference" : "CmRSAAAAT4p31NTvh3HwEq897VvNkpyfrNuCnzFh2HtdFdMLHwmA_ShSTI4zYZ_c9sTAr6_EkhZotezFs7QG_Wb_qkoLy1Y593aqosljc1RvQ57Y-r8pVbwBDRmdtmq9XiP-d6FeEhA2KK7j8Hn3Sd1K-XacGDcIGhR31TWnLF4cQbLYavDvZVr2SPErIQ",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Межигірська, 13, оф. 9, Київ, Украина, 04071",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.46719390000001,
+               "lng" : 30.5146854
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4685763302915,
+                  "lng" : 30.5160843802915
+               },
+               "southwest" : {
+                  "lat" : 50.46587836970851,
+                  "lng" : 30.5133864197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "15a092ecd5386ec775a44090dbbfb8a6c2e14327",
+         "name" : "Турагентство Join Up! to travel Podil - горящие туры из Киева Контрактовая Подол",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJrUj-1GrO1EARJxi2UA9aj_A",
+         "reference" : "CmRSAAAAlUsGqe0hyR4jCQA95af2GmVQRAILNxTc1gDoZs5rT3lq345NtDwvFI4rdd6rnBjzzbLbfjvt94KoaSuFAO8Piw-DE13jGl7pbmTMcUns4isMubv7Y8XNpkmtIAKuV-XNEhDVyc5w5754R244CeZ-9P3RGhSI2azAYOyhjJC4aGzPvFcdGXqwJA",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Костянтинівська, 20/14, Київ, Украина, 02000",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4673619,
+               "lng" : 30.5115338
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.46864838029149,
+                  "lng" : 30.5127857802915
+               },
+               "southwest" : {
+                  "lat" : 50.4659504197085,
+                  "lng" : 30.51008781970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "31f3d46fd07703d89d32a35819e7eb11f6098931",
+         "name" : "Поехали с Нами на Подоле",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJSbmGRmvO1EARTyD6O-tyLPE",
+         "rating" : 5,
+         "reference" : "CmRSAAAAKtPuwmdIII2-vQ_ZRFtSIWWeqP_3naF2onpzayoSvL87odOo4B7tuXgPPfkzRfJBNTYIcrI81sakNejgDn4V2LE-SKfd-RqUC0FhjJpjJ1Fnc1vjbzccXS1oaRmkwEv9EhDJIf5xX5dpruqtBesgf4PwGhTkIpgVG-6lILlhFkI8W62nBZV-2Q",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Бессарабская площадь, Киев, Kyiv city, Украина, 02000",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.441969,
+               "lng" : 30.5204599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4433179802915,
+                  "lng" : 30.5218088802915
+               },
+               "southwest" : {
+                  "lat" : 50.4406200197085,
+                  "lng" : 30.5191109197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9d0eb1a2a442f01444ead864e0c87b886e3a3d29",
+         "name" : "Турагентство Coral Travel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107695956696494748352/photos\"\u003eТурагентство Coral Travel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoN4TdXW7F6bSq9TQiklWytdm-Scwl6xyJXLhHgnDzLFs57eY30wwYnymHnRahSHj_w3zjEtqfvU3d5ul9awfvVgTg67hY0MJqlcqgsj_qd8aV15GaAk2JVP6J8zePgP0EhA0AtWiD9zk_cq_zpr-O5sIGhQlSh2UTUX9Dvc9eBHLluERQ_sOlg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJpaCFQ__O1EARja4-liPXrOo",
+         "reference" : "CmRSAAAAPYnQDUU6XeR5CLNpJKYkkBY9_o1rhl8lkFULTfCRgpjxsO3QBuQHdnQYPlFf-8O5cyC5eMDL5Ggi826lBaXO6WB-Cvoltu-ySGko8FzaNGQ_Iam3l5JuQGxaoWIToVW6EhAslQhKTe6w9McG2QcCG6twGhSN3i34AGl9Xhq1AjD5yf2whnCPDg",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Велика Васильківська, 21, Київ, Украина, 02088",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.439406,
+               "lng" : 30.5176767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.44086383029149,
+                  "lng" : 30.5189105802915
+               },
+               "southwest" : {
+                  "lat" : 50.43816586970849,
+                  "lng" : 30.5162126197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b6eb5928881a60d6d29e04c0fd3f14a001ba5226",
+         "name" : "Турагентство Любой Каприз Горящие туры",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109708269113356121777/photos\"\u003eТурагентство Любой Каприз Горящие туры\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbfFT8Hmo4soGUQIkeFw4_dsZZfaQdeN3kSZ_NcNaGXXBLuUhtc4W_NbbXo_3CM5K8lrTVv47wgDPwv0H4kEk70lklVZialekqSNsKxHTjrrv3u0dkDmJMOzfbM0XCRrpEhAzlv2tCIJKhE0y1e2Gjr2qGhRk6rikHsn2jYd_LlgbbLTcd2m5oQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfYUfv_7O1EAR3Zg68w_99Pw",
+         "rating" : 5,
+         "reference" : "CmRSAAAAzX7ZCPiGY9Ycu_56GzscXaw9h3ooTxux_EkFEVRuLx6wJ6EjwCI_zoL_GohM-kjGS8GoAhB2h2YeYzwdNWpRLQLiUJ6yIK4R9XDVXrTGrnnv6k4piA63VKKqFBL3qcZkEhA7aX153sQNzr9jMGe8lKo2GhRVGHPunUKq_JUishx75QGrx3U3sA",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Івана Мазепи, 3, Київ, Украина, 01010",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4433011,
+               "lng" : 30.546922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4445313802915,
+                  "lng" : 30.5480812802915
+               },
+               "southwest" : {
+                  "lat" : 50.4418334197085,
+                  "lng" : 30.5453833197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6435cd53911455a44b34c3ba4cb7bbb6ecd27779",
+         "name" : "Турагентство Join UP!",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJG_dYDK_P1EARfXp2fN6qyQA",
+         "reference" : "ClRQAAAA9zqTKdLsVN8roAmOwkjk4KZeIbGZcWdj2ZwJsbDwlCiINzwLGk6WkorYl9Gcfr6FzLeYUkLf1HXfTKtCclY7OauocJeP7-Shk5sd9TBq7cMSENaX2GIE87KNRuiHdlxs2U4aFEmgrJdU0wcrFwD6PYFS2n2ejGjG",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Б. Васильковская, 32а, Киев, Kyiv city, Украина, 01004",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4382387,
+               "lng" : 30.5156708
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4395876802915,
+                  "lng" : 30.5170197802915
+               },
+               "southwest" : {
+                  "lat" : 50.4368897197085,
+                  "lng" : 30.5143218197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b3cef9e687bc22bd6219d6de041e454ff7a10cf8",
+         "name" : "Турагентство Coral Travel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ8_B4HPzO1EARweq4BaX1eYY",
+         "reference" : "CmRSAAAAX5i_ktmoH3f8tBz__aNUYyEekgUQivnt1sK_3v9hW19FA9fY9vW_2L8vuuQNmO_qHYbLJMKKBdIcMV2sbPtRU7ah5U4kpGnuNcIMugEW8s6AyzMUsAIF3WRXj9pzZ7TSEhCRbSkwtbn9qpulJuhUj3BRGhSRlxXLKQRTMPw3b7wWw7gRFrG73A",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Ивана Мазепы, 7, оф.5, Київ, Украина, 01010",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.44257899999999,
+               "lng" : 30.547944
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.44392798029149,
+                  "lng" : 30.5492929802915
+               },
+               "southwest" : {
+                  "lat" : 50.44123001970849,
+                  "lng" : 30.5465950197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0dd69459885703e4b33e02872b54a8a45d45c7aa",
+         "name" : "Турагентство «Поехали с нами» | Горящие путевки в Киеве",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ0TdUZK_P1EARRlGvt1hcNIQ",
+         "reference" : "CmRSAAAAXqwNOyUglFf2Pd0qPWz4wBr1hbvcvVQLaEbet93Cxhx4Gc1rqzf4pU4Z9xNnUju5EYRy-WoQRIowVyjKavH6TqB_dgINocCRj-wfX5yqPQj3kumtO6daQCDkxJyPDMb7EhAJeRJWZmjEm3JA6WfRE-AAGhQISFITPZe7vUNjdeS90JZAaRECHw",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "пл. Спортивная, 1а, Киев, Kyiv city, Украина, 01023",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4388667,
+               "lng" : 30.5230665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.44021568029149,
+                  "lng" : 30.5244154802915
+               },
+               "southwest" : {
+                  "lat" : 50.4375177197085,
+                  "lng" : 30.5217175197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fc7ff51fb731c75ffe4c6b74d5f7105b714bcce7",
+         "name" : "Турагентство Coral Travel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJsw1yMf7O1EARPTlYT1vtnTE",
+         "reference" : "CmRRAAAAAJtuvDRcuMzYAxKfRtYl__kFf55bOa1Gplk-BUo_EWMMKtRCZPTi9ScYYcWBzHeX9GYRXEHxoEfoteT5zcrpaeOAPjM93GTy61OVSRd8wYaoAE4UcK2kvDZBE-TanbZVEhDKYHtcziKYDs1KQWO26ShBGhSMDkGthcJc_u_bjmyAlmnZbwuJiA",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Саксаганського, 5, Київ, Украина, 03189",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.435696,
+               "lng" : 30.5196906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4371474302915,
+                  "lng" : 30.5210403302915
+               },
+               "southwest" : {
+                  "lat" : 50.4344494697085,
+                  "lng" : 30.5183423697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2031e8998430cf9450267d7f82e8584906bc8074",
+         "name" : "Турагентство Join UP!",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJu-jwjf3O1EAR0tnx1BvS-vU",
+         "reference" : "CmRSAAAAoXDemv99FIFQcvMt6g0W4Dy5eNq_kFwhoZi0sptM7_6SrY-bP1JVOh6wBjIN_YJiWX5aq4mNZ7UGOmad6a6nqZINLAnnrWtDc59eWH2PQwE8FXpZye-mkdcXtozIMT8DEhDOvGgLCcayP6umh7LZuTVMGhQvNHzTmY1ucMQM5p0fwF6jWwXpiA",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "ул. Жилянська, буд.55,, Киев, Kyiv city, Украина, 01033",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.437454,
+               "lng" : 30.50089099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.43880298029149,
+                  "lng" : 30.50223998029149
+               },
+               "southwest" : {
+                  "lat" : 50.4361050197085,
+                  "lng" : 30.49954201970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "69ad8eb567e9cac170e523eaca8a14345500b4f4",
+         "name" : "Турагентство Join UP!",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJGYZcH_DO1EARACr_oTHy4e4",
+         "reference" : "CmRSAAAAogcELySJ-X84U6SAepIMAnYkYZYaMACDgpvEc6x83XcJlo3CxF3orSQo2lpLFztYIrs77rhKmj-M90oiQXARQH7tfbQ5I_n-AYUWT6NGEPddWa3Z5ragRf21KUL0sJgaEhAPI72sy4CkBWJ7dqA-o-JTGhScckXCByp_k6Q_aQtmkZTiyNnC5g",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Жилянська, 75, Київ, Украина, 01032",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4390449,
+               "lng" : 30.49888340000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4404474302915,
+                  "lng" : 30.50033588029151
+               },
+               "southwest" : {
+                  "lat" : 50.4377494697085,
+                  "lng" : 30.49763791970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "cc0ccdd4c827e1d4eb551b7f6cd84347748ef2ea",
+         "name" : "Турагентство Tours & Tickets",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJMUG4x_HO1EARkJPM3r870HM",
+         "rating" : 4,
+         "reference" : "CmRRAAAASITChfQppR1ImGBnRIRxNaCLc0DEmQNO5tzspKr_hgusIz0ZHVbyg9Rf7dKNwubXBUPGqrjmzVTpL2DICkPQ_ZdVJhxDc3pZyMnwOBN0nipM1Z5bbv-U6MsVu97BPM6bEhCgQcRCo63z6c7pA3qjdpqFGhSUihrN0smfdNcx7b-HjxT1VLNrvw",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "г. Киев, ул. Б. Васильковская, 72, ТЦ \"Олимпийский\", Киев, Kyiv city, Украина, 03150",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.432361,
+               "lng" : 30.5157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4337099802915,
+                  "lng" : 30.5170489802915
+               },
+               "southwest" : {
+                  "lat" : 50.4310120197085,
+                  "lng" : 30.5143510197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c17cef394be3386f71afcb645fffb81b09acf7b3",
+         "name" : "Турагентство Join UP!",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107522071532473907996/photos\"\u003eMykyta Maistrenko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA1SnsUl2vlZ7-yKsHMeXw2b9MmSRAZJoDD356EiNXxzjN7AK35IYp7I-Eew9Esb614G_VnEQdcYZ4o7s3fVFecBaMcN8K_UJGlJkoPn8G7fE5a_Sn6s4zyD6hNPc4C1lEhDst0Lo9NMSvZN7bYh2dKpeGhRjT3S-aq1e12P6WRRp4_AgPw1nbg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJFaYtruLO1EARFy9TQbCmORc",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAlJKqlC6Oxajnft7Z0VCg6ORGh3HRQa8pvaG17OhOaoqLKbpjfEGsEeM27pnhkvCB7fQpPRhcSai_uI-DKfVOgZNrRPe0vn2-rWhbC_p5bgPcuMg5yImbBCeqAN79Q1v6EhC67ot3d4NXqWnpKY5DEXcHGhQZqXc5Mrp5SAJhYP14GUPZEP0RTw",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "вулиця Раїси Окіпної, 4б, Київ, Украина, 02000",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.45042369999999,
+               "lng" : 30.59407529999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.45177268029149,
+                  "lng" : 30.59542428029149
+               },
+               "southwest" : {
+                  "lat" : 50.44907471970849,
+                  "lng" : 30.59272631970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1ee6aca66454a62a0ec71fdd3a8f42a47ba04e84",
+         "name" : "Турагентство Coral Travel",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117812762101919774520/photos\"\u003eТурагентство Coral Travel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmOOiNSIsMN41U5jx4_qe3EyBM9yZd9wxYtpufGAUFWdJQkotAPVZdCuPfQaJjHFWCtudwrfGGxhPjsTBFMN1xPpAlp1FLewZLiAsNGGd8KLOyjsi-LP-vIdd63uzIBiQEhBTq0eFZtPOL5kfcicdlQG7GhSC9Fg8_0FEot1za_knsH9BeTeApQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJq8WtcO7P1EARGkaEKrGuBrw",
+         "reference" : "CmRSAAAAZ_x5Qy9z1UcJTOdcDqASZ2gA4x3u6f8r3vN25cmi8A_L9hM8DdgEAYBdh9rOIP5T-CF9lQIL3yU0ZftQvOLvYlojnHleefcXgFKys1VPp8tGUWV5C7wfswkAXEsaPv2wEhBx7ZwbijOCWcHioU8jFa8DGhTmqP3auECr7UkhYS6DeNyQdZ9kcw",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
